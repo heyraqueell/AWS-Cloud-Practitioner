@@ -27,7 +27,7 @@ Os conteúdos estão organizados por módulos e temas, acompanhando a evolução
 
 ## Referências
 
-Os conteúdos são baseados principalmente nos **materiais oficiais de preparação da AWS** e na **escola da nuvem**.
+Os conteúdos são baseados principalmente nos **materiais oficiais de preparação da AWS** e na ***Escola da nuvem***.
 
 ---
 
