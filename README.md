@@ -14,6 +14,8 @@ Os conteúdos estão organizados por módulos e temas, acompanhando a evolução
 
 * **[Amazon S3](./Amazon-S3):** Classes de Armazenamento, Buckets, Redundância e Casos comuns.
 
+* **[Amazon EC2](./Amazon-EC2):** Computação na AWS, Amazon Elastic Compute Cloud, Armazenamento, Modelos de preços.
+
 * **Próximos módulos**
   Novos conteúdos serão adicionados conforme o avanço dos estudos.
 
