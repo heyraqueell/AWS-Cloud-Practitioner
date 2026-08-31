@@ -16,6 +16,8 @@ Os conteúdos estão organizados por módulos e temas, acompanhando a evolução
 
 * **[Amazon EC2](./Amazon-EC2):** Computação na AWS, Amazon Elastic Compute Cloud, Armazenamento, Modelos de preços.
 
+* **[Amazon VPC](./Amazon-VPC):** Redes virtuais na nuvem, Subnets públicas e privadas, Blocos CIDR, Internet Gateway, NAT Gateway, Tabelas de Rotas e Segurança (Security Groups e Network ACLs).
+
 * **Próximos módulos**
   Novos conteúdos serão adicionados conforme o avanço dos estudos.
 
